@@ -1,0 +1,8 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/bootstrap.min.css": "/css/bootstrap.min.css",
+    "/css/swiper-bundle.min.css": "/css/swiper-bundle.min.css",
+    "/scripts/bootstrap.bundle.min.js": "/scripts/bootstrap.bundle.min.js",
+    "/scripts/swiper-bundle.min.js": "/scripts/swiper-bundle.min.js"
+}
